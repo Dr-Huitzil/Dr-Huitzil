@@ -1,5 +1,9 @@
 # About me:
-I am a design-minded developer with an extensive background in customer service and jobs that have nothing to do with computer science. I believe any job will allow me to develop[ skills that will one day come in handy. I am currently a student at California State University - Monterey Bay pursuing a Bachelors of Science in Computer Science with a concentration in Software Engineering.
+My name is Ivan Alier-Reyes and I am a cybersecurity specialist who is passionate about technology and the supernatural, and have a fascination for zoology and computer science. In addition to my professional interests, I have a range of hobbies and passions that I enjoy in my free time. These include photography, making music, analyzing all kinds of music and films from all kinds of ages, art, gardening, cooking, making and editing videos, and studying ancient civilizations. I believe that there is always something valuable to learn from these hobbies that I can apply in my work. I am confident and determined, and bring a unique and dynamic perspective to my work.
+
+My goal is to gain as much experience as possible in fields that interest me and eventually teach in the Salinas Valley. I am passionate about learning and growth, and believe that my work ethic, which is focused on working hard and learning from my mistakes and achievements, will help me reach my goals and make a positive impact in my community. I have had the opportunity to work in various industries, including the fields of the Salinas Valley, and have developed a range of skills, such as customer service and communication, that will serve me well in my future endeavors.
+
+I am always looking for new challenges and opportunities to learn and grow, and am excited to see where my passion and determination will take me. I believe that with hard work and dedication, I can achieve my goals and make a difference in the world.
 
 ### - Learning:
 - Web Develpment
