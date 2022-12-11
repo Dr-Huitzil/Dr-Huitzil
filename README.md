@@ -29,6 +29,10 @@ I am always looking for new challenges and opportunities to learn and grow, and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-huitzil&layout=compact)](https://github.com/dr-huitzil/github-readme-stats)
 
+# Additional Information:
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ivan-alier-reyes" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ivan-alier-reyes?trk=profile-badge">Ivan Alier-Reyes</a></div>
+              
+
 
 
 
