@@ -14,7 +14,7 @@ I am always looking for new challenges and opportunities to learn and grow, and 
 - Databases
 
 ### - Hobbies:
-- Watching and analysing movies
+- Watching and analyzing movies
 - Creating short films
 - Photography
 - Culinary 
