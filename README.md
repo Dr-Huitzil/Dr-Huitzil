@@ -1,9 +1,9 @@
 # About me:
-My name is Ivan Alier-Reyes and I am a cybersecurity specialist who is passionate about technology and the supernatural, and have a fascination for zoology and computer science. In addition to my professional interests, I have a range of hobbies and passions that I enjoy in my free time. These include photography, making music, analyzing all kinds of music and films from all kinds of ages, art, gardening, cooking, making and editing videos, and studying ancient civilizations. I believe that there is always something valuable to learn from these hobbies that I can apply in my work. I am confident and determined, and bring a unique and dynamic perspective to my work.
+I'm Ivan Alier-Reyes, a cybersecurity specialist with a multifaceted skill set. Not only do I possess a deep fascination for technology and the supernatural, but I also have a keen interest in zoology and computer science.
 
-My goal is to gain as much experience as possible in fields that interest me and eventually teach in the Salinas Valley. I am passionate about learning and growth, and believe that my work ethic, which is focused on working hard and learning from my mistakes and achievements, will help me reach my goals and make a positive impact in my community. I have had the opportunity to work in various industries, including the fields of the Salinas Valley, and have developed a range of skills, such as customer service and communication, that will serve me well in my future endeavors.
+In addition to my professional expertise, I'm a proficient graphic designer and artist. These creative skills complement my work in cybersecurity by enabling me to design visually appealing and user-friendly websites and apps. I believe that seamless user experience and intuitive design play a crucial role in enhancing digital security.
 
-I am always looking for new challenges and opportunities to learn and grow, and am excited to see where my passion and determination will take me. I believe that with hard work and dedication, I can achieve my goals and make a difference in the world.
+Beyond my work, I indulge in a diverse range of hobbies, including photography, music, film analysis, art, gardening, cooking, video creation, and studying ancient civilizations. These passions fuel my creativity, and I leverage this dynamic perspective to approach challenges with innovative solutions.
 
 ### - Learning:
 - Web Develpment
