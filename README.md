@@ -25,7 +25,7 @@ I specialize in bridging enterprise IT infrastructure, endpoint automation, and 
 | [**windows-endpoint-automation-toolkit**](https://github.com/Dr-Huitzil/windows-endpoint-automation-toolkit) | Sanitized PowerShell automation suite, `AutoUnattend.xml`, BitLocker escrow, and enterprise IT runbooks | PowerShell, Windows 11, DISM, DellBIOSProvider, XML |
 | [**Este Cosmos**](https://estecosmos.netlify.app/) | Vehicle fuel telemetry diagnostics, fiscal analytics, and offline TinyML lifecycle forecasting | React, Edge Impulse TinyML, WebAssembly |
 | [**Will of Huitzil**](https://willofhuitzil.com) | Personal engineering portfolio, interactive resume, and custom real-time CMS | React, Vite, Firebase SDK, Vanilla CSS |
-| [**Mind Melt**](https://mindmelt.org) | Cloud creative asset platform and analog-to-digital broadcast production workflows | Vite, React, Google Cloud Storage, Firebase |
+| [**Mind Melt**](https://mindmelt.org) | Cloud media platform, multi-camera & Zoom multitrack capture, DaVinci Resolve pipelines, and multi-channel publishing ([YouTube](https://www.youtube.com/@mind.melt_)) | Vite, React, Google Cloud Storage, Firebase, DaVinci Resolve |
 
 ---
 
@@ -45,14 +45,15 @@ I specialize in bridging enterprise IT infrastructure, endpoint automation, and 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian_Knowledge_Base-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
-**Web & Applied Software**  
+**Web, Applied Software & Media Pipelines**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
 
 ---
 
-*Outside of engineering, I play electric bass, explore film and analog-to-digital video synthesis, and shoot photography.*
+*Outside of infrastructure and software engineering, I produce multi-channel audio/video and podcast projects across YouTube and Spotify (DSLR, camcorder, Zoom multitrack capture, and analog-to-digital synthesis), play electric bass, and shoot photography.*
