@@ -6,13 +6,14 @@ I specialize in bridging enterprise IT infrastructure, endpoint automation, and 
 
 - **Certifications & Education:** CompTIA Security+ (Active) · Cisco CCNA *(In Progress)* · B.S. in Computer Science @ CSUMB *(Expected Dec 2027)*
 - **Portfolio & Technical Writing:** [WillofHuitzil.com](https://willofhuitzil.com)
-- **Connect:** [LinkedIn](https://linkedin.com/in/ivan-alier-reyes) · [ialierreyes@gmail.com](mailto:ialierreyes@gmail.com)
+- **Connect:** [LinkedIn](https://www.linkedin.com/in/ivan-alier-reyes) · [ialierreyes@gmail.com](mailto:ialierreyes@gmail.com)
 
 ---
 
 ### What I Work On
 
 - **Zero-Touch Endpoint Provisioning & Automation:** Migrated fleet imaging to NinjaOne RMM using an object-oriented chassis policy architecture, `AutoUnattend.xml`, AppX debloating, and 40+ PowerShell scripts (BitLocker TPM+PIN escrow, Dell BIOS/NIC Wake-on-LAN, location static IPs, DISM update rollbacks).
+- **Fleet Hygiene & Security Reconciliation:** Engineered multi-source auditing tooling ([Humble Mumble](https://github.com/Dr-Huitzil/Humble-Mumble)) cross-referencing 500+ endpoints across NinjaOne RMM, Huntress EDR, and Active Directory to surface ghost assets, remediate unmanaged sensors, and orchestrate Google Tasks remediation.
 - **Multi-Site Network & Operations Triage:** Core/edge switch & wireless rollouts across 18 healthcare facilities, Cisco Meraki REST API & Auvik SNMP monitoring automation, VLAN switchport diagnostics, and dual-WAN failover root-cause analysis.
 - **Full-Stack & Edge ML Software:** Building progressive web apps with React, Vite, Firebase, Google Cloud Storage, and TinyML/WebAssembly (`Este Cosmos`, `Will of Huitzil`, `Mind Melt`).
 
@@ -23,8 +24,10 @@ I specialize in bridging enterprise IT infrastructure, endpoint automation, and 
 | Project | Focus | Stack / Tools |
 | :--- | :--- | :--- |
 | [**windows-endpoint-automation-toolkit**](https://github.com/Dr-Huitzil/windows-endpoint-automation-toolkit) | Sanitized PowerShell automation suite, `AutoUnattend.xml`, BitLocker escrow, and enterprise IT runbooks | PowerShell, Windows 11, DISM, DellBIOSProvider, XML |
+| [**Humble Mumble**](https://github.com/Dr-Huitzil/Humble-Mumble) | Multi-source fleet reporting, hygiene cross-referencing (NinjaOne, Huntress EDR, AD), and automated Google Tasks remediation | Python, Tkinter, PowerShell, Active Directory, Google Tasks API |
 | [**Este Cosmos**](https://estecosmos.netlify.app/) | Vehicle fuel telemetry diagnostics, fiscal analytics, and offline TinyML lifecycle forecasting | React, Edge Impulse TinyML, WebAssembly |
 | [**Will of Huitzil**](https://willofhuitzil.com) | Personal engineering portfolio, interactive resume, and custom real-time CMS | React, Vite, Firebase SDK, Vanilla CSS |
+| [**Robotics (FRC 7777)**](https://github.com/Dr-Huitzil/Robotics) | Autonomous robotics platform & subsystem control (3-year high-school FRC leadership & programming) | Java, WPILib, Sensors, Autonomous Routines |
 | [**Mind Melt**](https://mindmelt.org) | Cloud media platform, multi-camera & Zoom multitrack capture, DaVinci Resolve pipelines, and multi-channel publishing ([YouTube](https://www.youtube.com/@mind.melt_)) | Vite, React, Google Cloud Storage, Firebase, DaVinci Resolve |
 
 ---
